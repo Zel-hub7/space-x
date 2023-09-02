@@ -78,6 +78,10 @@
 
 To get a local copy up and running, follow these steps.
 
+## Live Demo
+
+<a href = "https://space-x-pink.vercel.app/">Live Link</a>
+
 ### Prerequisites
 
 In order to run this project you need:
